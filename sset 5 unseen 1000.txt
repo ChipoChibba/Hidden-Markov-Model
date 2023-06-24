@@ -1,0 +1,21 @@
+"C:\Program Files\Java\jdk-19\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\lib\idea_rt.jar=49950:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "C:\Users\Chipo Chibbamulilo\IdeaProjects\new\out\production\new" HMM
+Please type in a sentence to check: 
+Dartmouth College is an educational institution.
+Dartmouth/NP College/N is/V an/DET educational/ADJ institution./N 
+
+Jesus Christ loves you with everlasting love!
+Jesus/NP Christ/NP loves/VBZ you/PRO with/P everlasting/ADJ love!/N 
+
+Did you watch the Healing Streams?
+Did/V you/PRO watch/V the/DET Healing/N Streams?/P 
+
+Chipo is wearing a blue sweatshirt.
+Chipo/PRO is/V wearing/VG a/DET blue/ADJ sweatshirt./N 
+
+Jesus fed 5000 men.
+Jesus/NP fed/VD 5000/NUM men./N 
+
+q
+You left!
+
+Process finished with exit code 0
